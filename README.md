@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Open this link to start interacting with the application
+```
+http://localhost:4200/
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
