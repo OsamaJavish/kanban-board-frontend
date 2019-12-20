@@ -1,4 +1,4 @@
-# kanban-board
+# kanban-board-frontend
 
 ## Project setup
 ```
